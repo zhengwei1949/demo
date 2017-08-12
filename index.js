@@ -1,3 +1,3 @@
 console.log(1)
-console.log(2)
+var b = 200;
 console.log(43)
